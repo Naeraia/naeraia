@@ -1,1 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeraia&theme=jolly&show_icons=true)
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=naeraia&show_icons=true&theme=jolly&hide=contribs,prs" />
+</picture>
